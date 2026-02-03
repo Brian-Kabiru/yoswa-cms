@@ -29,7 +29,7 @@ export default {
       type: 'string',
       options: {
         list: [
-          { title: 'Quarterly Report', value: 'quarterly' },
+          { title: 'Programmatic Report', value: 'quarterly' },
           { title: 'Annual Report', value: 'annual' },
         ],
       },
